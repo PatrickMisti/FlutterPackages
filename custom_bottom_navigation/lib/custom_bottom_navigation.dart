@@ -1,7 +1,2 @@
-library custom_bottom_navigation;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/custom_bottom_navigation.dart';

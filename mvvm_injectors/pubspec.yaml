@@ -1,4 +1,4 @@
-name: custom_bottom_navigation
+name: mvvm_injectors
 description: A new Flutter package project.
 version: 0.0.1
 homepage:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_animate:
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:

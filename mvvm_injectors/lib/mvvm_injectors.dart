@@ -1,0 +1,3 @@
+library mvvm_injectors;
+
+
